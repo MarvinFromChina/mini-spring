@@ -1,4 +1,4 @@
 # mini-spring
 看了小傅哥的《手撸Spring》感觉不错，但是看到中间发现类多了，繁杂了，文章和代码对不上了，所以自己根据小傅哥的文章，做下补充，同时也看下自己是否真正的理解了作者的内容
-首先贴上小傅哥的原本的地址，https://github.com/fuzhengwei/small-spring，
+首先贴上小傅哥的原本的地址，https://github.com/fuzhengwei/small-spring
 我看到第7章发现就有点乱了，所以这次要认真的理一遍，反复研究下，欢迎大家一起来补充下
